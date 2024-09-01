@@ -1,0 +1,114 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.navbar .container-fluid a {
+    width: Hug (13.72rem)rem;
+    height: Hug (3.5rem)rem;
+    padding: 0.625rem 0  0.625rem 0;
+    gap:  0.625rem;
+    opacity: 0px;
+}
+
+.mid-container {
+    width: Fixed (1, 440px)px;
+    height: Hug (515px)px;
+    padding: 0px 100px 0px 100px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+    display: flex;
+}
+
+.mid-container .left-container .mid-heading {
+    font-family: Space Grotesk;
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 76.56px;
+    text-align: left;
+}
+
+.mid-container p {
+    font-family: Space Grotesk;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+
+}
+
+.mid-container .consultation-btn {
+    width: Hug (264px)px;
+    height: Hug (68px)px;
+    padding: 20px 35px 20px 35px;
+    gap: 10px;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 0px;
+
+}
+
+.mid-image {
+    width: Fixed (1, 440px)px;
+    height: Hug (515px)px;
+    padding: 0px 100px 0px 100px;
+    gap: 0px;
+    justify: space-between;
+    opacity: 0px;
+} 
+
+.footerbar .footer-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footerbar .footer-nav .nav-item {
+    list-style: none;
+}
+
+.footerbar .footer-nav a {
+    padding: 5px 0px;
+    width: Fixed (1, 440px)px;
+    height: Hug (771px)px;
+    top: 60px;
+    gap: 70px;
+    opacity: 0px;
+    padding-top: 80px;;
+}
+
+.services-div{
+    width: Fixed (1,440px)px;
+height: Hug (51px)px;
+top: 971px;
+padding: 0px 100px 0px 100px;
+border-radius: 0px 0px 0px 0px;
+gap: 40px;
+opacity: 0px;
+
+}
+
+.services-div h4{
+background-color: #B9FF66;
+color: black;
+}
+
+/* .services-div {
+width: Hug (264px)px;
+height: Hug (68px)px;
+padding: 20px 35px 20px 35px;
+gap: 10px;
+border-radius: 10px 10px 10px 10px;
+opacity: 0px;} */
+
+.services .ad{
+    background-color: #B9FF66;
+    color:black;
+
+}
+
+.payperclick .ad{
+    background-color: #B9FF66;
+
+}
